@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+
+# Claude Code project config
+.claude/
+
+# Source / draft materials (not part of the published site)
+home.md
+about.md
+linkedin-profile.md
+questionario-cases-portfolio.md
+Profile.pdf
+/projects/
+/Building a data-driven design practice in fintech/

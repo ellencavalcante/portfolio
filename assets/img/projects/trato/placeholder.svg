@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trato project image placeholder">
+  <rect width="1200" height="800" fill="#f2e2da"/>
+  <g stroke="#b5573d" stroke-width="2" opacity="0.35">
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/>
+    <line x1="0" y1="600" x2="1200" y2="600"/>
+  </g>
+  <g fill="none" stroke="#b5573d" stroke-width="3">
+    <circle cx="600" cy="330" r="64"/>
+    <path d="M576 330h48M600 306v48"/>
+  </g>
+  <text x="600" y="470" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600" fill="#b5573d">Trato</text>
+  <text x="600" y="508" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#8a5138">Image coming soon</text>
+</svg>
