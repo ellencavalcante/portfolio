@@ -14,7 +14,7 @@ export const ui = {
     nav: { home: "Home", cases: "Cases", about: "About", contact: "Contact" },
     home: {
       headline:
-        "I design financial and operational products that turn complex processes into simple flows.",
+        "I design products that turn complex processes into simple flows.",
       intro:
         "Senior Product Designer with 15+ years of experience across financial services, logistics and internal tools.",
       results: [
@@ -65,7 +65,7 @@ export const ui = {
     nav: { home: "Início", cases: "Cases", about: "Sobre", contact: "Contato" },
     home: {
       headline:
-        "Desenho produtos financeiros e operacionais que transformam processos complexos em fluxos simples.",
+        "Crio produtos que transformam processos complexos em fluxos simples.",
       intro:
         "Product Designer Sênior com mais de 15 anos de experiência em serviços financeiros, logística e ferramentas internas.",
       results: [
