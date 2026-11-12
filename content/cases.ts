@@ -36,14 +36,14 @@ export const cases: Case[] = [
     published: true,
     text: {
       en: {
-        title: "Redesigning the instant payments area of a digital bank",
+        title: "Redesigning the instant payments area at Midway",
         summary:
           "How customer service data replaced direct user research and guided a new home screen for Pix, Brazil's instant payment system.",
         sector: "Financial services",
         role: "Senior Product Designer",
         period: "Nov 2021 – Jan 2023",
         context:
-          "The digital bank of a large Brazilian retail group offered accounts, cards, loans and Pix in its mobile app. I worked in the squad responsible for the Pix area, balancing mandatory Central Bank requirements with improvements to the experience.",
+          "Midway, the digital bank of the Riachuelo retail group, offered accounts, cards, loans and Pix in its mobile app. I worked in the squad responsible for the Pix area, balancing mandatory Central Bank requirements with improvements to the experience.",
         challenge:
           "Reaching customers for research was close to impossible, and no flow in the app was instrumented. Priorities came mostly from intuition, and a feature built that way had been discontinued after months of work.",
         approach: [
@@ -56,14 +56,14 @@ export const cases: Case[] = [
           "The new home was the first change the team based on its own research. The report became a working tool for design and product, moving backlog decisions from intuition towards evidence.",
       },
       pt: {
-        title: "Redesenhando a área de pagamentos instantâneos de um banco digital",
+        title: "Redesenhando a área de pagamentos instantâneos da Midway",
         summary:
           "Como dados de atendimento substituíram a pesquisa direta com usuários e guiaram uma nova home do Pix.",
         sector: "Serviços financeiros",
         role: "Product Designer Sênior",
         period: "Nov 2021 – Jan 2023",
         context:
-          "O banco digital de um grande grupo varejista brasileiro oferecia conta, cartões, empréstimos e Pix no aplicativo. Atuei na squad responsável pela área Pix, equilibrando exigências obrigatórias do Banco Central com melhorias de experiência.",
+          "A Midway, banco digital do grupo Riachuelo, oferecia conta, cartões, empréstimos e Pix no aplicativo. Atuei na squad responsável pela área Pix, equilibrando exigências obrigatórias do Banco Central com melhorias de experiência.",
         challenge:
           "Acessar clientes para pesquisa era quase impossível, e nenhum fluxo do aplicativo era tagueado. As prioridades vinham principalmente da intuição, e uma funcionalidade criada assim foi descontinuada depois de meses de trabalho.",
         approach: [

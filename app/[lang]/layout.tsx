@@ -36,8 +36,12 @@ export default async function RootLayout({
         <footer className="footer">
           <p>{t.footer}</p>
           <p>
-            <a href={site.linkedin}>LinkedIn</a>
-            {" · "}
+            {site.linkedin && (
+              <>
+                <a href={site.linkedin}>LinkedIn</a>
+                {" · "}
+              </>
+            )}
             <a href={`mailto:${site.contactEmail}`}>{t.nav.contact}</a>
           </p>
         </footer>

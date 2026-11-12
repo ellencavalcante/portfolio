@@ -18,9 +18,9 @@ export const ui = {
       intro:
         "Senior Product Designer with 15+ years of experience across financial services, logistics and internal tools.",
       results: [
-        { value: "+120%", label: "revenue in two months" },
-        { value: "-80%", label: "rework after a new handover process" },
-        { value: "6.7 → 8.9", label: "NPS through continuous discovery" },
+        { value: "Evidence over intuition", label: "Customer service data turned into a recurring input for product decisions" },
+        { value: "Less rework", label: "Handover documentation that cuts back-and-forth between design and engineering" },
+        { value: "Continuous discovery", label: "Research and validation as part of the squad routine, not a separate phase" },
       ],
       casesTitle: "Selected cases",
       allCases: "See all cases",
@@ -69,9 +69,9 @@ export const ui = {
       intro:
         "Product Designer Sênior com mais de 15 anos de experiência em serviços financeiros, logística e ferramentas internas.",
       results: [
-        { value: "+120%", label: "de receita em dois meses" },
-        { value: "-80%", label: "de retrabalho com novo processo de handover" },
-        { value: "6,7 → 8,9", label: "de NPS com discovery contínuo" },
+        { value: "Evidência no lugar da intuição", label: "Dados de atendimento transformados em insumo recorrente para decisões de produto" },
+        { value: "Menos retrabalho", label: "Documentação de handover que reduz idas e vindas entre design e engenharia" },
+        { value: "Discovery contínuo", label: "Pesquisa e validação como rotina da squad, não como fase separada" },
       ],
       casesTitle: "Cases em destaque",
       allCases: "Ver todos os cases",
